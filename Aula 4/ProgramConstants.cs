@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Aula_4
+﻿namespace Aula_4
 {
     public partial class Conversor10toX
     {
