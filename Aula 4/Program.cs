@@ -1,4 +1,7 @@
-﻿namespace Aula_4
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace Aula_4
 {
     public partial class Conversor10toX
     {
